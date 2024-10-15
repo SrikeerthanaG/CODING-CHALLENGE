@@ -1,0 +1,6 @@
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Util\bin\Debug\OrderManagementSystem.Util.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Util\bin\Debug\OrderManagementSystem.Util.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Util\obj\Debug\OrderManagementSystem.Util.csproj.AssemblyReference.cache
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Util\obj\Debug\OrderManagementSystem.Util.csproj.CoreCompileInputs.cache
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Util\obj\Debug\OrderManagementSystem.Util.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Util\obj\Debug\OrderManagementSystem.Util.pdb
