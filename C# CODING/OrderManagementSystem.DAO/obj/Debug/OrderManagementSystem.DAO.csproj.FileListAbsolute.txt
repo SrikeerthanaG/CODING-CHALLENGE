@@ -1,0 +1,12 @@
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\bin\Debug\OrderManagementSystem.DAO.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\bin\Debug\OrderManagement.Entity.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\bin\Debug\OrderManagementSystem.Exception.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\bin\Debug\OrderManagement.Entity.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\bin\Debug\OrderManagementSystem.Exception.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\obj\Debug\OrderManagementSystem.DAO.csproj.AssemblyReference.cache
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\obj\Debug\OrderManagementSystem.DAO.csproj.CoreCompileInputs.cache
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\obj\Debug\OrderMan.720DF31F.Up2Date
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\obj\Debug\OrderManagementSystem.DAO.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\obj\Debug\OrderManagementSystem.DAO.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\bin\Debug\OrderManagementSystem.Util.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.DAO\bin\Debug\OrderManagementSystem.Util.pdb
