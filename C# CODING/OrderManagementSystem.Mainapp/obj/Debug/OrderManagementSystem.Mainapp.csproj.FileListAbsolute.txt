@@ -1,0 +1,16 @@
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagementSystem.Mainapp.exe.config
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagementSystem.Mainapp.exe
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagementSystem.Mainapp.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagement.Entity.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagementSystem.DAO.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagement.Entity.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagementSystem.DAO.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\obj\Debug\OrderManagementSystem.Mainapp.csproj.AssemblyReference.cache
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\obj\Debug\OrderManagementSystem.Mainapp.csproj.CoreCompileInputs.cache
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\obj\Debug\OrderMan.BF10F498.Up2Date
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\obj\Debug\OrderManagementSystem.Mainapp.exe
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\obj\Debug\OrderManagementSystem.Mainapp.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagementSystem.Exception.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagementSystem.Exception.pdb
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagementSystem.Util.dll
+C:\Users\srike\source\repos\OrderManagement.UI\OrderManagementSystem.Mainapp\bin\Debug\OrderManagementSystem.Util.pdb
